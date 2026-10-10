@@ -1,0 +1,3 @@
+# Logs de diagnostico podem conter dados especificos da maquina.
+/scripts/logs/
+*.log
